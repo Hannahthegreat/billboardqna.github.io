@@ -8,6 +8,10 @@ function App() {
         <div className="flex flex-col pt-20 lg:pt-0 lg:justify-center min-h-screen">
           <a href="">
             <img src={billboard} alt="Billboard Logo" className="max-w-2/3" />
+            <img
+              src="/billboardqna.github.io/Billboard_logo.svg.png"
+              alt="Billboard Logo"
+            />
           </a>
           <div className="py-5">
             <div className="flex items-center w-full">
