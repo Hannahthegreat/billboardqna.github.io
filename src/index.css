@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+:root {
+  background-color: white;
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+}
+
+df-messenger {
+  --df-messenger-bot-message: #f3f4f6;
+  --df-messenger-button-titlebar-color: #222222;
+  --df-messenger-chat-background-color: #ffffff;
+  --df-messenger-send-icon: #222222;
+  --df-messenger-send-icon: #222222;
+  --df-messenger-user-message: #dbdbdb;
+  --df-messenger-font-color: #222222;
+  --df-messenger-input-box-color: #f9fafb;
+  --df-messenger-input-box-font-color: #363636;
+  --df-messenger-minimized-chat-close-icon-color: #222222;
+}
