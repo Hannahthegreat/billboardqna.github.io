@@ -1,4 +1,4 @@
-import billboard from "./assets/Billboard_logo.svg.png";
+// import billboard from "./assets/Billboard_logo.svg.png";
 import DialogflowMessenger from "./DialogFlowMessenger";
 
 function App() {
@@ -7,10 +7,11 @@ function App() {
       <div className="mx-auto max-w-7xl w-full px-5 sm:px-8 md:px-14 lg:px-10">
         <div className="flex flex-col pt-20 lg:pt-0 lg:justify-center min-h-screen">
           <a href="">
-            <img src={billboard} alt="Billboard Logo" className="max-w-2/3" />
+            {/* <img src={billboard} alt="Billboard Logo" className="max-w-2/3" /> */}
             <img
               src="/billboardqna.github.io/Billboard_logo.svg.png"
               alt="Billboard Logo"
+              className="max-w-2/3"
             />
           </a>
           <div className="py-5">
